@@ -6,9 +6,6 @@
 body{
 	background-color: aqua;
 }
-body{
-	background-color: red !important;
-}
 .container {
 	max-width: 600px;
 	margin: 0 auto;
