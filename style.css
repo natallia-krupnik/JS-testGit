@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 body{
-	background-color: rgb(3, 239, 239);
+	background-color: aqua;
 }
 .container {
 	max-width: 600px;
@@ -14,7 +14,7 @@ header{
 	text-align: center;
 	padding: 10px;
 	margin-bottom: 15px;
-	font-size: 25px;
+	font-size: 20px;
 	font-style: italic;
 }
 .container-flex{
